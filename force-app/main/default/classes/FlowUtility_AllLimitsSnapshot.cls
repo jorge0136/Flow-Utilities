@@ -1,8 +1,8 @@
 /* @author			Thomas George
 *  @date			12/2017
 *  @description		This tool is meant to help the dev process/ debugging within Flows and Process Builders. 
-* 					Please note while this tool can help expose the current limits within automation, this utility will consume CPU time. 
-* 					It is recommended that you remove any calls to this utility from any flow or PB before pushing to production. 					
+* 			Please note while this tool can help expose the current limits within automation, this utility will consume CPU time. 
+* 			It is recommended that you remove any calls to this utility from any flow or PB before pushing to production. 					
 */
 
 Global class FlowUtility_AllLimitsSnapshot {    
@@ -23,9 +23,9 @@ Global class FlowUtility_AllLimitsSnapshot {
         Integer queryLocatorRows = Limits.getQueryLocatorRows();
         Integer queryRows = Limits.getQueryRows();
         Integer queueableJobs = Limits.getQueueableJobs();
-		Integer soslQueries = Limits.getSoslQueries();
+	Integer soslQueries = Limits.getSoslQueries();
         
-		system.debug(LoggingLevel.Error, 'Flow Utility- Aggregate Queries: ' + String.ValueOf(aggregateQueries) );			
+	system.debug(LoggingLevel.Error, 'Flow Utility- Aggregate Queries: ' + String.ValueOf(aggregateQueries) );			
     	system.debug(LoggingLevel.Error, 'Flow Utility- Async Calls: ' + String.ValueOf(asyncCalls) );
         system.debug(LoggingLevel.Error, 'Flow Utility- Call Outs: ' + String.ValueOf(callouts) );
         system.debug(LoggingLevel.Error, 'Flow Utility- CPU Time: ' + String.ValueOf(cpuTime) );
