@@ -1,0 +1,77 @@
+[
+    [
+        "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1514581791000,
+            "changeTime": 1514581791000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1514581791000,
+            "changeTime": 1514581791000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1514581791000,
+            "changeTime": 1514581791000,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1514581791000,
+            "changeTime": 1514581791000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility",
+        {
+            "state": "n",
+            "sourcePath": "/Users/Thomas/Documents/Coding/Javascript/Blog/Flow Utility/FlowUtility",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1514581963000,
+            "changeTime": 1514581963000,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
