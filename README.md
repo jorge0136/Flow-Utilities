@@ -11,9 +11,6 @@ Salesforce invocable apex utilities to be used in flow and process builder. Thes
 
 ## Install to Sandbox
 
-1. <a href="https://githubsfdeploy.herokuapp.com">
-  <img alt="Deploy to Salesforce"
-       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
-</a>
+1. <img>[![Deploy to Salesforce](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png)](https://githubsfdeploy.herokuapp.com)</img>
 2. Login in with your sandbox credentials. 
 3. Automation will fire to install the utility. 
